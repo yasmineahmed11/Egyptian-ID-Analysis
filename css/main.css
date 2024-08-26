@@ -300,6 +300,11 @@ button {
     margin-left: 10%;
   }
 }
+@media(max-width: 376px){
+  .results{
+    margin-left: 3%;
+  }
+}
 @media(max-width: 321px){
   .results{
     margin-left: 2%;
